@@ -1,4 +1,4 @@
-# Device tree for the Redmi Pad (yunluo)
+# Device tree for the [POCO M5](https://www.gsmarena.com/xiaomi_poco_m5-11850.php)  (_rock_)
 
 ## Device specifications
 
@@ -11,14 +11,14 @@
 | Shipped Android version | 12                                                          |
 | Storage                 | 64GB / 128GB                                                |
 | MicroSD                 | MicroSDXC                                                   |
-| Battery                 | Non-removable Li-Po 8000 mAh                                |
-| Dimensions              | 250.5 x 158.1 x 7.1 mm                                      |
-| Display                 | 1200 x 2000 pixels (5:3), 10.61 inches                      |
-| Rear Camera 1           | 8 MP, f/2.0 (wide)                                          |
-| Front Camera            | 8 MP, f/2.3 (ultrawide)                                     |
+| Battery                 | Non-removable Li-Po 5000 mAh                                |
+| Dimensions              | 164 x 76.1 x 8.9  mm                                      |
+| Display                 | 1080 x 2408 pixels (5:3), 6.58 inches                      |
+| Rear Camera 1           | 50 MP, 8MP, 2MP (wide, macro & depth)                                          |
+| Front Camera            | 5 MP (wide)                                     |
 
 
 ## Device Picture
 
-![Xiaomi Redmi Pad](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-pad-01.jpg)
+![Xiaomi POCO M5](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m5.jpg)
 
